@@ -1,0 +1,91 @@
+***********
+* SOKKELO *
+***********
+Kirjoita komento:
+lataa
+Kirjoita komento:
+inventoi
+Monkija  |1   |1   |100 |e   |
+Kirjoita komento:
+kartta
+.....
+.ME .
+.E. .
+.E.R.
+.....
+Kirjoita komento:
+katso e
+Kaytava  |2   |1   |
+Esine    |2   |1   |500 |
+Kirjoita komento:
+liiku e
+.....
+. E .
+.M.R.
+.E. .
+.....
+Kirjoita komento:
+liiku e
+.....
+. ER.
+. . .
+.M. .
+.....
+Kirjoita komento:
+inventoi
+Monkija  |3   |1   |100 |e   |
+Esine    |3   |1   |100 |
+Esine    |3   |1   |500 |
+Kirjoita komento:
+liiku e
+Kops!
+.....
+. E .
+. .R.
+.M. .
+.....
+Kirjoita komento:
+liiku p
+.....
+. ER.
+.M. .
+. . .
+.....
+Kirjoita komento:
+liiku p
+.....
+.MR .
+. . .
+. . .
+.....
+Kirjoita komento:
+katso i
+Kaytava  |1   |2   |
+Esine    |1   |2   |50  |
+Robotti  |1   |2   |300 |l   |
+Kirjoita komento:
+muunna 2
+Kirjoita komento:
+inventoi
+Monkija  |1   |1   |700 |p   |
+Kirjoita komento:
+odota
+Voitto!
+.....
+.ME .
+. . .
+. . .
+.....
+Kirjoita komento:
+inventoi
+Monkija  |1   |1   |400 |p   |
+Kirjoita komento:
+tallenna
+Kirjoita komento:
+lopeta
+.....
+.ME .
+. . .
+. . .
+.....
+Ohjelma lopetettu.

@@ -1,0 +1,90 @@
+***********
+* SOKKELO *
+***********
+Kirjoita komento:
+Monkija  |5   |2   |230 |e   |
+Esine    |5   |2   |70  |
+Esine    |5   |2   |120 |
+Esine    |5   |2   |200 |
+Esine    |5   |2   |800 |
+Esine    |5   |2   |1000|
+Kirjoita komento:
+...........
+.       .R.
+..... ... .
+.    E.   .
+. ..... ...
+. M .   . .
+. . ... . .
+. .     E .
+...........
+Kirjoita komento:
+Virhe!
+Kirjoita komento:
+Virhe!
+Kirjoita komento:
+Virhe!
+Kirjoita komento:
+Virhe!
+Kirjoita komento:
+Virhe!
+Kirjoita komento:
+Virhe!
+Kirjoita komento:
+Virhe!
+Kirjoita komento:
+Virhe!
+Kirjoita komento:
+Virhe!
+Kirjoita komento:
+Virhe!
+Kirjoita komento:
+Virhe!
+Kirjoita komento:
+Virhe!
+Kirjoita komento:
+Virhe!
+Kirjoita komento:
+Virhe!
+Kirjoita komento:
+Virhe!
+Kirjoita komento:
+Virhe!
+Kirjoita komento:
+Virhe!
+Kirjoita komento:
+Virhe!
+Kirjoita komento:
+Virhe!
+Kirjoita komento:
+Virhe!
+Kirjoita komento:
+Virhe!
+Kirjoita komento:
+Virhe!
+Kirjoita komento:
+Virhe!
+Kirjoita komento:
+Virhe!
+Kirjoita komento:
+Virhe!
+Kirjoita komento:
+Virhe!
+Kirjoita komento:
+Monkija  |5   |2   |230 |e   |
+Esine    |5   |2   |70  |
+Esine    |5   |2   |120 |
+Esine    |5   |2   |200 |
+Esine    |5   |2   |800 |
+Esine    |5   |2   |1000|
+Kirjoita komento:
+...........
+.       .R.
+..... ... .
+.    E.   .
+. ..... ...
+. M .   . .
+. . ... . .
+. .     E .
+...........
+Ohjelma lopetettu.

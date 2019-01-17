@@ -1,0 +1,49 @@
+-1  |7   |5   |
+Seina    |0   |0   |
+Seina    |0   |1   |
+Seina    |0   |2   |
+Seina    |0   |3   |
+Seina    |0   |4   |
+Seina    |1   |0   |
+Kaytava  |1   |1   |
+Esine    |1   |1   |100 |
+Kaytava  |1   |2   |
+Esine    |1   |2   |200 |
+Kaytava  |1   |3   |
+Esine    |1   |3   |300 |
+Seina    |1   |4   |
+Seina    |2   |0   |
+Seina    |2   |1   |
+Seina    |2   |2   |
+Kaytava  |2   |3   |
+Esine    |2   |3   |400 |
+Seina    |2   |4   |
+Seina    |3   |0   |
+Kaytava  |3   |1   |
+Monkija  |3   |1   |220 |i   |
+Kaytava  |3   |2   |
+Esine    |3   |2   |400 |
+Kaytava  |3   |3   |
+Esine    |3   |3   |500 |
+Seina    |3   |4   |
+Seina    |4   |0   |
+Kaytava  |4   |1   |
+Esine    |4   |1   |600 |
+Seina    |4   |2   |
+Seina    |4   |3   |
+Seina    |4   |4   |
+Seina    |5   |0   |
+Kaytava  |5   |1   |
+Esine    |5   |1   |700 |
+Kaytava  |5   |2   |
+Esine    |5   |2   |650 |
+Kaytava  |5   |3   |
+Esine    |5   |3   |800 |
+Robotti  |5   |3   |1500|i   |
+Esine    |5   |3   |2000|
+Seina    |5   |4   |
+Seina    |6   |0   |
+Seina    |6   |1   |
+Seina    |6   |2   |
+Seina    |6   |3   |
+Seina    |6   |4   |

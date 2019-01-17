@@ -1,0 +1,120 @@
+***********
+* SOKKELO *
+***********
+Kirjoita komento:
+inventoi
+Monkija  |5   |2   |230 |e   |
+Esine    |5   |2   |70  |
+Esine    |5   |2   |120 |
+Esine    |5   |2   |200 |
+Esine    |5   |2   |800 |
+Esine    |5   |2   |1000|
+Kirjoita komento:
+kartta
+...........
+.       .R.
+..... ... .
+.    E.   .
+. ..... ...
+. M .   . .
+. . ... . .
+. .     E .
+...........
+Kirjoita komento:
+a
+Virhe!
+Kirjoita komento:
+ab
+Virhe!
+Kirjoita komento:
+abc
+Virhe!
+Kirjoita komento:
+here we go again
+Virhe!
+Kirjoita komento:
+1
+Virhe!
+Kirjoita komento:
+12
+Virhe!
+Kirjoita komento:
+123
+Virhe!
+Kirjoita komento:
+1.23
+Virhe!
+Kirjoita komento:
+inventoi 10
+Virhe!
+Kirjoita komento:
+Liiku
+Virhe!
+Kirjoita komento:
+liiku 2
+Virhe!
+Kirjoita komento:
+liiku e p
+Virhe!
+Kirjoita komento:
+liiku liiku e
+Virhe!
+Kirjoita komento:
+katso pohjoiseen
+Virhe!
+Kirjoita komento:
+katso
+Virhe!
+Kirjoita komento:
+KAYTA
+Virhe!
+Kirjoita komento:
+kayta x
+Virhe!
+Kirjoita komento:
+kayta x y z
+Virhe!
+Kirjoita komento:
+kayta -10
+Virhe!
+Kirjoita komento:
+kayta 10
+Virhe!
+Kirjoita komento:
+karttaa
+Virhe!
+Kirjoita komento:
+tallenna tiedosto.txt
+Virhe!
+Kirjoita komento:
+lataa 123
+Virhe!
+Kirjoita komento:
+lopeta ohjelma
+Virhe!
+Kirjoita komento:
+inventoi varasto
+Virhe!
+Kirjoita komento:
+odota hetki
+Virhe!
+Kirjoita komento:
+inventoi
+Monkija  |5   |2   |230 |e   |
+Esine    |5   |2   |70  |
+Esine    |5   |2   |120 |
+Esine    |5   |2   |200 |
+Esine    |5   |2   |800 |
+Esine    |5   |2   |1000|
+Kirjoita komento:
+lopeta
+...........
+.       .R.
+..... ... .
+.    E.   .
+. ..... ...
+. M .   . .
+. . ... . .
+. .     E .
+...........
+Ohjelma lopetettu.

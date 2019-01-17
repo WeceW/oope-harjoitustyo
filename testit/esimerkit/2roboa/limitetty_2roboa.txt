@@ -1,0 +1,81 @@
+***********
+* SOKKELO *
+***********
+Kirjoita komento:
+kartta
+.......
+.R  .E.
+. . .M.
+.R.   .
+.......
+Kirjoita komento:
+inventoi
+Monkija  |2   |5   |40  |e   |
+Kirjoita komento:
+liiku e
+.......
+.   .E.
+.R. . .
+. .  M.
+.......
+Kirjoita komento:
+liiku l
+.......
+.R  .E.
+. . . .
+. . M .
+.......
+Kirjoita komento:
+liiku l
+.......
+. R .E.
+. . . .
+. .M  .
+.......
+Kirjoita komento:
+liiku p
+.......
+.R R.E.
+. .M. .
+. .   .
+.......
+Kirjoita komento:
+liiku e
+.......
+.   .E.
+.R.R. .
+. .M  .
+.......
+Kirjoita komento:
+liiku i
+.......
+.   .E.
+. . . .
+.R.RM .
+.......
+Kirjoita komento:
+liiku i
+.......
+.   .E.
+.R. . .
+. . RM.
+.......
+Kirjoita komento:
+liiku p
+.......
+.R  .E.
+. . .M.
+. .  R.
+.......
+Kirjoita komento:
+katso e
+Kaytava  |3   |5   |
+Robotti  |3   |5   |100 |i   |
+Kirjoita komento:
+liiku p
+.......
+.R  .M.
+. . . .
+. .  R.
+.......
+Ohjelma lopetettu.

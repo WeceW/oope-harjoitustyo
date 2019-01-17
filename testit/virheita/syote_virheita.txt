@@ -1,0 +1,30 @@
+inventoi
+kartta
+a
+ab
+abc
+here we go again
+1
+12
+123
+1.23
+inventoi 10
+Liiku
+liiku 2
+liiku e p
+liiku liiku e
+katso pohjoiseen
+katso
+KAYTA
+kayta x
+kayta x y z
+kayta -10
+kayta 10
+karttaa
+tallenna tiedosto.txt
+lataa 123
+lopeta ohjelma
+inventoi varasto
+odota hetki
+inventoi
+lopeta

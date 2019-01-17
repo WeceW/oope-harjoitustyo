@@ -1,0 +1,290 @@
+***********
+* SOKKELO *
+***********
+Kirjoita komento:
+inventoi
+Monkija  |3   |1   |220 |i   |
+Kirjoita komento:
+kartta
+.....
+.EEE.
+...E.
+.MEE.
+.E...
+.EER.
+.....
+Kirjoita komento:
+liiku i
+.....
+.EEE.
+...E.
+. ME.
+.E...
+.ERE.
+.....
+Kirjoita komento:
+inventoi
+Monkija  |3   |2   |220 |i   |
+Esine    |3   |2   |400 |
+Kirjoita komento:
+liiku i
+.....
+.EEE.
+...E.
+.  M.
+.E...
+.REE.
+.....
+Kirjoita komento:
+inventoi
+Monkija  |3   |3   |220 |i   |
+Esine    |3   |3   |400 |
+Esine    |3   |3   |500 |
+Kirjoita komento:
+liiku p
+.....
+.EEE.
+...M.
+.   .
+.E...
+.ERE.
+.....
+Kirjoita komento:
+inventoi
+Monkija  |2   |3   |220 |p   |
+Esine    |2   |3   |400 |
+Esine    |2   |3   |400 |
+Esine    |2   |3   |500 |
+Kirjoita komento:
+liiku p
+.....
+.EEM.
+... .
+.   .
+.E...
+.EER.
+.....
+Kirjoita komento:
+inventoi
+Monkija  |1   |3   |220 |p   |
+Esine    |1   |3   |300 |
+Esine    |1   |3   |400 |
+Esine    |1   |3   |400 |
+Esine    |1   |3   |500 |
+Kirjoita komento:
+liiku l
+.....
+.EM .
+... .
+.   .
+.E...
+.ERE.
+.....
+Kirjoita komento:
+inventoi
+Monkija  |1   |2   |220 |l   |
+Esine    |1   |2   |200 |
+Esine    |1   |2   |300 |
+Esine    |1   |2   |400 |
+Esine    |1   |2   |400 |
+Esine    |1   |2   |500 |
+Kirjoita komento:
+liiku l
+.....
+.M  .
+... .
+.   .
+.E...
+.REE.
+.....
+Kirjoita komento:
+inventoi
+Monkija  |1   |1   |220 |l   |
+Esine    |1   |1   |100 |
+Esine    |1   |1   |200 |
+Esine    |1   |1   |300 |
+Esine    |1   |1   |400 |
+Esine    |1   |1   |400 |
+Esine    |1   |1   |500 |
+Kirjoita komento:
+liiku i
+.....
+. M .
+... .
+.   .
+.R...
+.EEE.
+.....
+Kirjoita komento:
+liiku i
+.....
+.  M.
+... .
+.R  .
+.E...
+.EEE.
+.....
+Kirjoita komento:
+odota
+.....
+.  M.
+... .
+. R .
+.E...
+.EEE.
+.....
+Kirjoita komento:
+liiku e
+.....
+.   .
+...M.
+.  R.
+.E...
+.EEE.
+.....
+Kirjoita komento:
+odota
+.....
+.   .
+...M.
+. R .
+.E...
+.EEE.
+.....
+Kirjoita komento:
+liiku e
+.....
+.   .
+... .
+.R M.
+.E...
+.EEE.
+.....
+Kirjoita komento:
+liiku l
+.....
+.   .
+... .
+. M .
+.R...
+.EEE.
+.....
+Kirjoita komento:
+liiku l
+.....
+.   .
+... .
+.M  .
+.E...
+.REE.
+.....
+Kirjoita komento:
+liiku e
+.....
+.   .
+... .
+.   .
+.M...
+.ERE.
+.....
+Kirjoita komento:
+inventoi
+Monkija  |4   |1   |220 |e   |
+Esine    |4   |1   |100 |
+Esine    |4   |1   |200 |
+Esine    |4   |1   |300 |
+Esine    |4   |1   |400 |
+Esine    |4   |1   |400 |
+Esine    |4   |1   |500 |
+Esine    |4   |1   |600 |
+Kirjoita komento:
+liiku e
+.....
+.   .
+... .
+.   .
+. ...
+.MER.
+.....
+Kirjoita komento:
+inventoi
+Monkija  |5   |1   |220 |e   |
+Esine    |5   |1   |100 |
+Esine    |5   |1   |200 |
+Esine    |5   |1   |300 |
+Esine    |5   |1   |400 |
+Esine    |5   |1   |400 |
+Esine    |5   |1   |500 |
+Esine    |5   |1   |600 |
+Esine    |5   |1   |700 |
+Kirjoita komento:
+odota
+.....
+.   .
+... .
+.   .
+. ...
+.MRE.
+.....
+Kirjoita komento:
+katso i
+Kaytava  |5   |2   |
+Esine    |5   |2   |650 |
+Robotti  |5   |2   |1500|l   |
+Kirjoita komento:
+muunna 5
+Kirjoita komento:
+inventoi
+Monkija  |5   |1   |1620|e   |
+Esine    |5   |1   |500 |
+Esine    |5   |1   |600 |
+Esine    |5   |1   |700 |
+Kirjoita komento:
+odota
+Voitto!
+.....
+.   .
+... .
+.   .
+. ...
+.MEE.
+.....
+Kirjoita komento:
+inventoi
+Monkija  |5   |1   |120 |e   |
+Esine    |5   |1   |500 |
+Esine    |5   |1   |600 |
+Esine    |5   |1   |700 |
+Kirjoita komento:
+liiku i
+.....
+.   .
+... .
+.   .
+. ...
+. ME.
+.....
+Kirjoita komento:
+inventoi
+Monkija  |5   |2   |120 |i   |
+Esine    |5   |2   |500 |
+Esine    |5   |2   |600 |
+Esine    |5   |2   |650 |
+Esine    |5   |2   |700 |
+Kirjoita komento:
+katso i
+Kaytava  |5   |3   |
+Esine    |5   |3   |800 |
+Esine    |5   |3   |2000|
+Kirjoita komento:
+tallenna
+Kirjoita komento:
+liiku i
+.....
+.   .
+... .
+.   .
+. ...
+.  M.
+.....
+Ohjelma lopetettu.

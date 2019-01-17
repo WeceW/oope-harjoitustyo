@@ -1,0 +1,74 @@
+***********
+* SOKKELO *
+***********
+Kirjoita komento:
+Kirjoita komento:
+Monkija  |1   |1   |100 |e   |
+Kirjoita komento:
+.....
+.ME .
+.E. .
+.E.R.
+.....
+Kirjoita komento:
+Kaytava  |2   |1   |
+Esine    |2   |1   |500 |
+Kirjoita komento:
+.....
+. E .
+.M.R.
+.E. .
+.....
+Kirjoita komento:
+.....
+. ER.
+. . .
+.M. .
+.....
+Kirjoita komento:
+Monkija  |3   |1   |100 |e   |
+Esine    |3   |1   |100 |
+Esine    |3   |1   |500 |
+Kirjoita komento:
+Kops!
+.....
+. E .
+. .R.
+.M. .
+.....
+Kirjoita komento:
+.....
+. ER.
+.M. .
+. . .
+.....
+Kirjoita komento:
+.....
+.MR .
+. . .
+. . .
+.....
+Kirjoita komento:
+Kaytava  |1   |2   |
+Esine    |1   |2   |50  |
+Robotti  |1   |2   |300 |l   |
+Kirjoita komento:
+Kirjoita komento:
+Monkija  |1   |1   |700 |p   |
+Kirjoita komento:
+Voitto!
+.....
+.ME .
+. . .
+. . .
+.....
+Kirjoita komento:
+Monkija  |1   |1   |400 |p   |
+Kirjoita komento:
+Kirjoita komento:
+.....
+.ME .
+. . .
+. . .
+.....
+Ohjelma lopetettu.

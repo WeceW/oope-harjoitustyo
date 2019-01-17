@@ -1,0 +1,69 @@
+***********
+* SOKKELO *
+***********
+Kirjoita komento:
+.......
+.R  .E.
+. . .M.
+.R.   .
+.......
+Kirjoita komento:
+Monkija  |2   |5   |40  |e   |
+Kirjoita komento:
+.......
+.   .E.
+.R. . .
+. .  M.
+.......
+Kirjoita komento:
+.......
+.R  .E.
+. . . .
+. . M .
+.......
+Kirjoita komento:
+.......
+. R .E.
+. . . .
+. .M  .
+.......
+Kirjoita komento:
+.......
+.R R.E.
+. .M. .
+. .   .
+.......
+Kirjoita komento:
+.......
+.   .E.
+.R.R. .
+. .M  .
+.......
+Kirjoita komento:
+.......
+.   .E.
+. . . .
+.R.RM .
+.......
+Kirjoita komento:
+.......
+.   .E.
+.R. . .
+. . RM.
+.......
+Kirjoita komento:
+.......
+.R  .E.
+. . .M.
+. .  R.
+.......
+Kirjoita komento:
+Kaytava  |3   |5   |
+Robotti  |3   |5   |100 |i   |
+Kirjoita komento:
+.......
+.R  .M.
+. . . .
+. .  R.
+.......
+Ohjelma lopetettu.

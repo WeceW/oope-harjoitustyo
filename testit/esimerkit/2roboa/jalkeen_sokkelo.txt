@@ -1,0 +1,40 @@
+1   |5   |7   |
+Seina    |0   |0   |
+Seina    |0   |1   |
+Seina    |0   |2   |
+Seina    |0   |3   |
+Seina    |0   |4   |
+Seina    |0   |5   |
+Seina    |0   |6   |
+Seina    |1   |0   |
+Kaytava  |1   |1   |
+Robotti  |1   |1   |200 |e   |
+Kaytava  |1   |2   |
+Kaytava  |1   |3   |
+Seina    |1   |4   |
+Kaytava  |1   |5   |
+Esine    |1   |5   |50  |
+Seina    |1   |6   |
+Seina    |2   |0   |
+Kaytava  |2   |1   |
+Seina    |2   |2   |
+Kaytava  |2   |3   |
+Seina    |2   |4   |
+Kaytava  |2   |5   |
+Monkija  |2   |5   |40  |e   |
+Seina    |2   |6   |
+Seina    |3   |0   |
+Kaytava  |3   |1   |
+Robotti  |3   |1   |100 |p   |
+Seina    |3   |2   |
+Kaytava  |3   |3   |
+Kaytava  |3   |4   |
+Kaytava  |3   |5   |
+Seina    |3   |6   |
+Seina    |4   |0   |
+Seina    |4   |1   |
+Seina    |4   |2   |
+Seina    |4   |3   |
+Seina    |4   |4   |
+Seina    |4   |5   |
+Seina    |4   |6   |
